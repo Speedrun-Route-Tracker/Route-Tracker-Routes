@@ -1,0 +1,12 @@
+[
+    {
+        "GameName": "Assassin's Creed 4 (Black Flag)",
+        "RepoUrl": "https://github.com/Speedrun-Route-Tracker/Route-AC4",
+        "Bitness": "32"
+    },
+    {
+        "GameName": "God of War (2018)",
+        "RepoUrl": "https://github.com/Speedrun-Route-Tracker/Route-GoW",
+        "Bitness": "64"
+    }
+]
